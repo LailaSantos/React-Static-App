@@ -5,8 +5,8 @@ import CardList from "../Cardlist/CardList";
 
 const App = () => (
   <div>
-   <Header/>
-			<CardList/>
+   	<Header/>
+	<CardList/>
   </div>
 );
 
