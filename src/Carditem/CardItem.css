@@ -1,0 +1,9 @@
+.carditem {
+	width: 90%;
+	height: 50px;
+	background: #2c1376;
+	color: white;
+	margin: 5px;
+	font-size: 20px;
+	text-align: center;
+}
